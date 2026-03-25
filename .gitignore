@@ -1,0 +1,54 @@
+# =========================
+# Java / Maven / Gradle
+# =========================
+target/
+build/
+out/
+*.class
+*.jar
+*.war
+*.ear
+
+# =========================
+# Eclipse files
+# =========================
+.project
+.classpath
+.settings/
+.metadata/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDEs (optional safety)
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Test Reports
+# =========================
+reports/
+test-output/
+allure-results/
+
+# =========================
+# Environment files
+# =========================
+.env
+
+# =========================
+# Node (for Playwright future)
+# =========================
+node_modules/
+package-lock.json
