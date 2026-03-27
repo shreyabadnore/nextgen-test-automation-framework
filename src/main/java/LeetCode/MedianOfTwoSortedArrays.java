@@ -1,4 +1,4 @@
-package Programs;
+package LeetCode;
 
 public class MedianOfTwoSortedArrays {
 
